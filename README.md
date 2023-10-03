@@ -1,4 +1,4 @@
-# ChatGPT_Chemistry_Assistant
+# ChatGPT_Chemistry_Assistant - Text Mining / MOF Synthesis
 ChatGPT Chemistry Assistant
 
 Please check out https://pubs.acs.org/doi/10.1021/jacs.3c05819 for more details.
